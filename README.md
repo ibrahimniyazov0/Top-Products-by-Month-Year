@@ -4,7 +4,7 @@ This project demonstrates how to combine SQL aggregate functions with window fun
 
 ## Overview
 - Applied SQL `SUM()` to calculate total sales per product by month and year.
-- Used SQL window functions (`DENSE_RANK`, `ROW_NUMBER`) to rank products within each period.
+- Used SQL window functions (`DENSE_RANK`) to rank products within each period.
 - Exported results into Excel Pivot Tables.
 - Visualized **Top 15 products** with Pivot Charts.
 - Added interactive filters for **Months** and **Years**.
